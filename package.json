@@ -1,7 +1,7 @@
 {
     "name": "girl-name-generator",
-    "version": "1.0.2",
-    "description": "Generate Random Names for your babies",
+    "version": "1.0.3",
+    "description": "Random Names generator for your babies",
     "license": "MIT",
     "repository": "sindresorhus/eslint-json",
     "author": {
