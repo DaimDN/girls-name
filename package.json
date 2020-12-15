@@ -1,11 +1,11 @@
 {
     "name": "girl-name-generator",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Generate Random Names for your babies",
     "license": "MIT",
     "repository": "sindresorhus/eslint-json",
     "author": {
-      "name": "Daim Mugha;",
+      "name": "Daim Mughal;",
       "email": "abdul.daim26@gmail.com"
     },
     "engines": {

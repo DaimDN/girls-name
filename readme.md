@@ -1,8 +1,8 @@
 
-# Random Girls Name Genetor 
+# girls name generator 
 
 
-Generate Random names for your baby girls
+Generate Random names for your baby girls. Use names.girlname() function and its going to generate a random name for little girls.
 
 
 ## Install
