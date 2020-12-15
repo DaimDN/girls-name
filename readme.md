@@ -8,7 +8,7 @@ Generate Random names for your baby girls. Use names.girlname() function and its
 ## Install
 
 ```
-$ npm i girl-name-generator
+$ npm i girl-names
 ```
 
 
