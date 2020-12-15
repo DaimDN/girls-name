@@ -1,6 +1,6 @@
 {
-    "name": "girl-name-generator",
-    "version": "1.0.4",
+    "name": "girl-names",
+    "version": "1.0.5",
     "description": "Random Names generator for your babies",
     "license": "MIT",
     "repository": "DaimDN/girls-name",
@@ -15,7 +15,13 @@
       "test": ""
     },
     "files": [
-      "index.js"
+      "index.js",
+      "license",
+      "names.txt",
+      "readme.md",
+      "name.json",
+      "package.json",
+      "source/writer.js"
     ],
     "keywords": [
       "name generator",
